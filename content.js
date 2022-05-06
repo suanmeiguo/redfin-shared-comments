@@ -23,7 +23,7 @@ if (is_match == null) {
 
       // disqus code, do not modify
       var d = document, s = d.createElement('script');
-      s.src = 'https://redfin-with-comments.disqus.com/embed.js';      
+      s.src = 'https://redfin-shared-comments.disqus.com/embed.js';
       s.setAttribute('data-timestamp', + new Date());
       (d.head || d.body).appendChild(s);
     })();
