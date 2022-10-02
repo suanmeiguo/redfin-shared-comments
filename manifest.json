@@ -1,7 +1,7 @@
 {
   "name": "Redfin Shared Comments",
   "description": "Share your comments with others on Redfin properties",
-  "version": "1.6",
+  "version": "1.7",
   "manifest_version": 3,
   "action": {
       "default_icon": {
